@@ -44,6 +44,7 @@ btn.onclick = () => {
   return situacao(nota);
 };
 
+//botão limpar
 limpar.onclick = () => {
   nota.value = "";
   res.value = "";
