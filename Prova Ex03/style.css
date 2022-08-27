@@ -1,0 +1,13 @@
+#resultado {
+    width: 1000px;
+    border: 0px;
+}
+
+#aviso {
+    color: red;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
