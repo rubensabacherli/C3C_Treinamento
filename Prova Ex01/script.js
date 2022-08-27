@@ -28,6 +28,7 @@ btn.onclick = () => {
   }
 };
 
+//botão limpar
 limpar.onclick = () => {
   l1.value = "";
   l2.value = "";
