@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#lado1,
+#lado2,
+#lado3 {
+    border-radius: 5px;
+    width: 175px;
+}
+
+#resultado {
+    width: 250px;
+    font-size: 20px;
+    border: 0px;
+    text-align: center;
+}
