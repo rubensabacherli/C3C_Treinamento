@@ -1,0 +1,14 @@
+#aviso {
+    color: red;
+}
+
+#resultado {
+    word-wrap: break-word;
+    overflow-x: auto;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 555px;
+}
