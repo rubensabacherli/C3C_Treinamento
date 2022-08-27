@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#resultado {
+    border: 0px;
+    width: 300px;
+}
