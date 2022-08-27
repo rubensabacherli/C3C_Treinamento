@@ -31,6 +31,7 @@ btn.onclick = () => {
   res.value = valorX1();
 };
 
+//botão limpar
 limpar.onclick = () => {
   valorA.value = "";
   valorB.value = "";
